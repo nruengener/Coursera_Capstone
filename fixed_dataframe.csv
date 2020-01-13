@@ -1,0 +1,137 @@
+Neighborhood,Total Crimes,Density,Average Income,Longitude,Latitude,location,point
+Agincourt North,1008,"3,929","30,414",-79.2670669555129,43.8092994689717,"Agincourt North, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1S 3Y7, Canada","(43.8080383, -79.2664391, 0.0)"
+Agincourt South-Malvern West,1331,"3,034","31,825",-79.26940917961291,43.787349700971696,,
+Alderwood,460,"2,435","47,709",-79.541160583413,43.604961395271395,"Alderwood, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8W 3T7, Canada","(43.6017173, -79.5452325, 0.0)"
+Annex,2908,"10,863","112,766",-79.402801513613,43.6693611145715,"The Annex, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5T 2E9, Canada","(43.6703377, -79.407117, 0.0)"
+Banbury-Don Mills,938,"2,775","67,757",-79.34851837151301,43.740409851071604,"Banbury Road, The Bridle Path, Don Valley West, North York, Toronto, Golden Horseshoe, Ontario, M3C 2E6, Canada","(43.7348039, -79.3572426, 0.0)"
+Bathurst Manor,951,"3,377","45,936",-79.454772949213,43.763778686571705,"Bathurst, Bathurst Regional Council, New South Wales, 2795, Australia","(-33.4166378, 149.5804943, 0.0)"
+Bay Street Corridor,3564,"14,097","56,526",-79.38617706291299,43.6577110290715,"corridor, Bay Street, North Jubilee, Victoria, Capital Regional District, British Columbia, V8R 2L1, Canada","(48.43262135, -123.327567032197, 0.0)"
+Bayview Village,798,"4,195","52,035",-79.379570007313,43.7770996093717,"Bayview Village, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2K 1C3, Canada","(43.7691966, -79.3766617, 0.0)"
+Bayview Woods-Steeles,428,"3,240","47,246",-79.382202148413,43.794849395771706,"Bayview Woods-Steeles, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2M 2Y1, Canada","(43.7981268, -79.3829726, 0.0)"
+Bedford Park-Nortown,1135,"4,209","123,077",-79.424499511713,43.730659484871595,,
+Beechborough-Greenbrook,615,"3,614","33,829",-79.478309631313,43.693111419671496,,
+Bendale,2277,"4,011","33,256",-79.2573928833129,43.7596282958716,"Bendale, Scarborough, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 2S7, Canada","(43.7535196, -79.2553355, 0.0)"
+Birchcliffe-Cliffside,1411,"3,765","54,360",-79.2646026611129,43.694721221971506,,
+Black Creek,2006,"6,282","25,989",-79.52149963371299,43.766361236571704,"Black Creek, Town of Cicero, Outagamie County, Wisconsin, 54106, United States","(44.5195476, -88.3791735, 0.0)"
+Blake-Jones,425,"8,134","48,511",-79.337374,43.676503,"Rosa L Jones Blvd/ Blake Ave (NW Corner), Rosa L Jones Boulevard, Rockledge, Brevard County, Florida, 32922, United States of America","(28.3493734, -80.7386475, 0.0)"
+Briar Hill-Belgravia,1117,"7,791","34,768",-79.451248168913,43.6985206671595,"Sheridan & Briar NB, North Sheridan Road, Pine Grove, Lake View, Chicago, Cook County, Illinois, 60614, United States","(41.9385174, -87.6393935, 0.0)"
+Bridle Path-Sunnybrook-York Mills,420,"1,040","308,010",-79.380813598613,43.727321624771605,,
+Broadview North,299,"6,764","44,557",-79.354286193813,43.68936920171579,"Broadview North, East York, Toronto—Danforth, East York, Toronto, Golden Horseshoe, Ontario, M4K 2S1, Canada","(43.6839242, -79.3569642, 0.0)"
+Brookhaven-Amesbury,829,"5,045","32,483",-79.484649658213,43.7003097534715,,
+Caledonia-Fairbank,328,"6,464","35,112",-79.45482635413009,43.6885681152715,"Caledonia Road, Rogers Road, Davenport, York, Toronto, Golden Horseshoe, Ontario, M6E 4Y2, Canada","(43.6928659, -79.4621437, 0.0)"
+Casa Loma,457,"5,683","165,047",-79.409492492613,43.6807785034715,"Casa Loma, 1, Austin Terrace, Tarragon Village, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5R 1X9, Canada","(43.6781015, -79.409415775, 0.0)"
+Centennial Scarborough,311,"2,479","54,045",-79.1472396850129,43.779121398971704,"Centennial, Scarborough—Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1C 2A2, Canada","(43.7874914, -79.1507681, 0.0)"
+Church-Yonge Corridor,6301,"23,044","53,583",-79.378677368113,43.660240173715295,"Lane East Yonge South Price, Rosedale, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4W 2L7, Canada","(43.6799189, -79.3886888, 0.0)"
+Clairlea-Birchmount,2163,"3,632","36,232",-79.28369903561291,43.715988159716204,,
+Clanton Park,735,"3,979","51,181",-79.446344,43.748217,"Clanton Park, Rice Lake, Barron County, Wisconsin, United States","(45.517867, -91.7408485707676, 0.0)"
+Cliffcrest,1014,"2,273","44,718",-79.2329711914129,43.7264213562716,"Cliffcrest, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1M 1V3, Canada","(43.7219387, -79.2362324, 0.0)"
+Corso Italia-Davenport,818,"7,478","41,717",-79.450378417913,43.6769905090715,"Corso Italia, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6E 1B4, Canada","(43.677954, -79.4430828, 0.0)"
+Danforth,1191,"8,554","55,225",-79.385437011713,43.6486892707151,"Danforth, Iroquois County, Illinois, United States","(40.820312, -87.977818, 0.0)"
+Danforth East York,464,"7,881","51,846",-79.29012990953879,43.6907158290841,"Danforth, 213, Main Street, Danforth East, Beaches—East York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4C 4X4, Canada","(43.6864333, -79.3003555, 0.0)"
+Don Valley Village,1285,"6,441","37,379",-79.350166320813,43.7855186467173,"Don Valley Village, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2J 4X9, Canada","(43.7926732, -79.3547219, 0.0)"
+Dorset Park,1756,"4,146","31,692",-79.27745819091291,43.755329132716795,"Dorset Park, Scarborough, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 1M2, Canada","(43.7528467, -79.282067, 0.0)"
+Dovercourt-Wallace Emerson-Junction,2450,"9,819","39,740",-79.43686676021301,43.6660385131715,,
+Downsview-Roding-CFB,2974,"2,337","34,168",-79.49136352531299,43.7289199827164,,
+Dufferin Grove,602,"8,540","40,588",-79.437309265113,43.6551399230715,"Dufferin Grove, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6H 1A6, Canada","(43.6536319, -79.4264389, 0.0)"
+East End-Danforth,1691,"8,038","54,324",-79.2991104125129,43.684150695871494,"East End, East York, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 3C9, Canada","(43.6684402, -79.33067, 0.0)"
+Edenbridge-Humber Valley,473,"2,840","101,551",-79.521263122513,43.6699104309715,"Edenbridge Drive, Humber Valley, Etobicoke Centre, Etobicoke, Toronto, Ontario, M6M 2E6, Canada","(43.6786234, -79.5101307, 0.0)"
+Eglinton East,1804,"7,051","30,033",-79.2322904,43.739622,"Eglinton, 2995, Eglinton Avenue East, Eglinton, Scarborough Southwest, Scarborough, Toronto, Ontario, M1J 2E5, Canada","(43.739622, -79.2322904, 0.0)"
+Elms-Old Rexdale,581,"3,306","32,012",-79.549560546813,43.72428894071629,"Rexdale, Etobicoke North, Etobicoke, Toronto, Ontario, M9W 3Z3, Canada","(43.7213619, -79.5655129, 0.0)"
+Englemount-Lawrence,873,"6,466","48,134",-79.438117980913,43.7219200134716,"Englemount Avenue, Glen Park, Eglinton—Lawrence, North York, Toronto, Golden Horseshoe, Ontario, M6B 2H5, Canada","(43.7115939, -79.4360013, 0.0)"
+Eringate-Centennial-West Deane,676,"2,171","47,002",-79.577377319313,43.661911010771504,,
+Etobicoke West Mall,450,"6,582","38,255",-79.56771850581299,43.6444511413715,"The West Mall, Eatonville, Etobicoke, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9C 1G8, Canada","(43.6481772, -79.5681708, 0.0)"
+Flemingdon Park,1001,"9,026","28,654",-79.33171081512991,43.7163085937162,"Flemingdon Park, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M3C 1C3, Canada","(43.7184315, -79.333204, 0.0)"
+Forest Hill North,568,"8,054","85,099",-79.427452087413,43.7052192687716,"Forest Hill, Steuben County, New York, United States","(42.0792411, -77.0010768, 0.0)"
+Forest Hill South,360,"4,380","204,521",-79.41609954813009,43.6943092346715,"Forest Hill, Universitetsgatan, Mjölnartorpet, Karlstad, Karlstads kommun, Värmlands län, Svealand, 656 37, Sverige","(59.4097454, 13.5833927, 0.0)"
+Glenfield-Jane Heights,1981,"5,864","27,984",-79.515037536613,43.7467498777167,"Jane Heights, Evergreen Village, Paradise, Newfoundland, Newfoundland and Labrador, A1L 1E7, Canada","(47.5403364, -52.8420152, 0.0)"
+Greenwood-Coxwell,885,"8,582","46,206",-79.3234329223129,43.6719512939715,,
+Guildwood,402,"2,673","53,203",-79.1982293,43.7552251,"Guildwood, Westlake Road, Guildwood Village, Scarborough—Guildwood, Scarborough, Toronto, Ontario, M1E 1L8, Canada","(43.7552251, -79.1982293, 0.0)"
+Henry Farm,472,"6,047","36,359",-79.3408737182129,43.7723007202717,"Henry Farm, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2J 1H5, Canada","(43.7695089, -79.354296, 0.0)"
+High Park North,1057,"11,726","57,465",-79.464576721113,43.6576690673715,"High Park North, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada","(43.6547092, -79.4600712, 0.0)"
+High Park-Swansea,647,"4,893","71,204",-79.47113800041299,43.647041320871494,"Swansea, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada","(43.64494, -79.478313, 0.0)"
+Highland Creek,816,"2,403","40,972",-79.17613983151291,43.78947830207171,"Highland Creek, Scarborough—Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1C 3T7, Canada","(43.7901172, -79.1733344, 0.0)"
+Hillcrest Village,687,"3,148","40,442",-79.353462219213,43.803028106671704,"Hillcrest Village, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2H 1M1, Canada","(43.7996637, -79.3650189, 0.0)"
+Humber Heights-Westmount,521,"3,981","45,615",-79.521263122513,43.6940193176715,"York Humber High School, 100, Emmett Avenue, Mount Dennis, York, York South—Weston, York, Toronto, Ontario, M6M 2E6, Canada","(43.68846955, -79.5063904344015, 0.0)"
+Humber Summit,1590,"1,570","30,731",-79.558486938413,43.7601585388716,"Humber Summit, Humber River—Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M9L 1C8, Canada","(43.7600778, -79.5717598, 0.0)"
+Humbermede,968,"3,565","29,528",-79.537460327113,43.7428398132716,,
+Humewood-Cedarvale,371,"7,682","65,274",-79.426979064913,43.6894187927715,"Cedarvale Park, Cedarvale, Toronto—St. Paul's, York, Toronto, Golden Horseshoe, Ontario, Canada","(43.69079835, -79.4253981936993, 0.0)"
+Ionview,804,"7,031","31,383",-79.2732009881298,43.7362899780716,"Ionview, Scarborough, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1K 2Z9, Canada","(43.7359904, -79.2765146, 0.0)"
+Islington-City Centre West,2589,"2,712","52,787",-79.542961120613,43.63608169557139,,
+Junction Area,1043,"5,442","49,709",-79.472030639613,43.6690711977154,"Junction area, Grad Umag, Istarska županija, Hrvatska","(45.48625645, 13.2839905472599, 0.0)"
+Keelesdale-Eglinton West,503,"6,467","33,316",-79.46927642821299,43.6856918334715,"Keelesdale, Eglinton Avenue West, Keelesdale, York, York South—Weston, York, Toronto, Golden Horseshoe, Ontario, M6M 1T9, Canada","(43.6901578, -79.4749985, 0.0)"
+Kennedy Park,1577,"4,770","30,974",-79.2623214721129,43.7258682250716,"Kennedy Park, Tuscaloosa County, Alabama, 35467, United States","(33.2181738, -87.5111163, 0.0)"
+Kensington-Chinatown,3263,"11,806","37,422",-79.396339416513,43.6533088684715,"The Kensington, 665, Boylston Square, Chinatown, Beacon Hill, Boston, Suffolk County, Massachusetts, 02111, United States","(42.35177715, -71.0631869969193, 0.0)"
+Kingsview Village-The Westway,1116,"4,356","36,674",-79.549240112313,43.699440002471505,"Westway Medical Clinic, Northcrest Road, Martin Grove Gardens, Etobicoke, Etobicoke Centre, Etobicoke, Toronto, Ontario, M9R 2K5, Canada","(43.6926457, -79.557049, 0.0)"
+Kingsway South,454,"3,593","144,642",-79.511123657213,43.6543312072715,"Kingsway South, Team Valley Trading Estate, Lamesley, Gateshead, Tyne and Wear, North East England, England, NE11 0RU, United Kingdom","(54.9282737, -1.6166207, 0.0)"
+L'Amoreaux,1570,"6,144","31,826",-79.31220245361291,43.797260284471704,"L'Amoreaux, Scarborough—Agincourt, Scarborough, Toronto, Golden Horseshoe, Ontario, M1V 1S4, Canada","(43.799003, -79.3059669, 0.0)"
+Lambton Baby Point,193,"4,697","76,629",-79.49751281731301,43.65932083127149,"Lambton Memorial Baby Health Centre, Elder Street, Lambton, Newcastle-Maitland, Newcastle City Council, New South Wales, 2299, Australia","(-32.91202505, 151.709806753209, 0.0)"
+Lansing-Westgate,643,"3,038","72,371",-79.424201965313,43.754631042716795,"G, 2250, North Triphammer Road, Lansing, Lansing Town, Tompkins County, New York, 14882, United States","(42.478656, -76.48613845, 0.0)"
+Lawrence Park North,445,"6,407","111,730",-79.40641784613001,43.728298187271605,"Lawrence Park, Westchester County, New York, 10708, United States","(40.9403765, -73.8484677, 0.0)"
+Lawrence Park South,468,"4,685","169,203",-79.405738830513,43.718528747571604,"Lawrence Park, Westchester County, New York, 10708, United States","(40.9403765, -73.8484677, 0.0)"
+Leaside-Bennington,507,"3,596","125,564",-79.367576599113,43.700710296671495,,
+Little Portugal,703,"12,859","45,737",-79.4290313721301,43.6474800109715,"Little Portugal, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada","(43.64741325, -79.4311163254605, 0.0)"
+Long Branch,557,"4,584","47,384",-79.532722473113,43.593528747571405,"Long Branch, Monmouth County, New Jersey, 07740, United States","(40.3042778, -73.9923596, 0.0)"
+Malvern,2024,"4,948","29,573",-79.2208404541129,43.80976867677171,"Malvern, Worcestershire, West Midlands, England, WR14 2HX, United Kingdom","(52.1159559, -2.3258985, 0.0)"
+Maple Leaf,459,"4,012","37,108",-79.479782104413,43.7146186828716,"Maple Leaf, York, York South—Weston, North York, Toronto, Ontario, M6L 1P3, Canada","(43.7122767, -79.4901977, 0.0)"
+Markland Wood,293,"3,614","62,378",-79.569480895913,43.6339111328714,"Ravens Wood, Johnson Fold, Markland Hill, Bolton, Greater Manchester, North West England, England, BL1 5TL, United Kingdom","(53.5782296, -2.4801356, 0.0)"
+Milliken,1414,"2,830","28,085",-79.27693939212979,43.8227996826717,"Milliken, Kanawha County, West Virginia, 25023, United States","(38.4017642, -81.5459558, 0.0)"
+Morningside,871,"3,041","32,291",-79.2052307128129,43.782550811771706,"Morningside, Edinburgh, City of Edinburgh, Scotland, United Kingdom","(55.9296409, -3.2100796, 0.0)"
+Moss Park,3609,"14,753","58,915",-79.36799621513,43.655021667715204,"Moss Park, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 1S2, Canada","(43.6546438, -79.3697278, 0.0)"
+Mount Dennis,870,"6,442","30,827",-79.4955215451302,43.6890983581715,"Mount Dennis, York, York South—Weston, York, Toronto, Golden Horseshoe, Ontario, M6M 5C4, Canada","(43.6869597, -79.4895513, 0.0)"
+Mount Olive-Silverstone-Jamestown,2257,"7,291","26,548",-79.588256835913,43.7472114562716,,
+Mount Pleasant East,413,"5,411","85,340",-79.382375,43.705844,"Mount Pleasant East, Frederick County, Maryland, 21793, United States","(39.4509353, -77.3149836, 0.0)"
+Mount Pleasant West,1235,"21,969","57,039",-79.392987,43.704685,"Mount Pleasant West, Henry Lanum Memorial Trail, Alto, Amherst County, Virginia, United States","(37.7409538, -79.1714738, 0.0)"
+New Toronto,841,"3,342","44,101",-79.509246826113,43.601428985571395,"New Toronto, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8V 1J2, Canada","(43.6007625, -79.505264, 0.0)"
+Newtonbrook East,1275,"3,926","45,212",-79.406951904213,43.79304122927171,"Newtonbrook Secondary School, 155, Hilda Avenue, North York, Willowdale, North York, Toronto, Ontario, M2M 1V6, Canada","(43.7938863, -79.4256790230105, 0.0)"
+Newtonbrook West,1078,"5,070","34,904",-79.431732177713,43.7881813049717,"Newtonbrook Secondary School, 155, Hilda Avenue, North York, Willowdale, North York, Toronto, Ontario, M2M 1V6, Canada","(43.7938863, -79.4256790230105, 0.0)"
+Niagara,1324,"10,156","70,623",-79.408336,43.636907,"Niagara County, New York, United States","(43.2042439, -78.7676017, 0.0)"
+North Riverdale,514,"6,770","73,253",-79.345235,43.679473,"North Riverdale, Montgomery County, Ohio, 45405, United States","(39.7922804, -84.2102191, 0.0)"
+O'Connor-Parkview,970,"3,780","43,907",-79.3067703247129,43.708721160871605,"Parkview Hills Car Spa, 796, O'Connor Drive, Woodbine Heights, Beaches—East York, East York, Toronto, Golden Horseshoe, Ontario, M4B 2S6, Canada","(43.7050419, -79.3135303, 0.0)"
+Oakridge,1427,"7,444","26,793",-79.2791213989129,43.698829650871495,"Oakridge, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1L 3W5, Canada","(43.6971738, -79.2748232, 0.0)"
+Oakwood Village,788,"9,511","39,803",-79.439880371013,43.688880920715704,"Oakwood Village, Clark County, Ohio, 45503, United States","(39.9672822, -83.7788168, 0.0)"
+Old East York,600,"3,997","53,315",-79.337409,43.691494,"East York, Concord Road, Barwood, Springettsbury Township, York County, Pennsylvania, 17402-2658, United States","(39.96710015, -76.6747513278521, 0.0)"
+Palmerston-Little Italy,788,"9,601","58,071",-79.419219970713,43.6595611572715,"Palmerston Avenue, Little Italy, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6J 2J3, Canada","(43.655854, -79.4101161, 0.0)"
+Parkwoods-Donalda,1377,"4,691","42,516",-79.324970,43.753472,,
+Pelmo Park-Humberlea,692,"2,547","39,003",-79.529266357413,43.7103500366716,"Pelmo Park Public School, 180, Gary Drive, Weston, York, York South—Weston, North York, Toronto, Ontario, M9N 2M1, Canada","(43.7121949, -79.517556398374, 0.0)"
+Playter Estates-Danforth,709,"8,671","70,831",-79.355247497513,43.6801490783715,,
+Pleasant View,421,"5,273","36,346",-79.3345336914129,43.7881202697717,"Pleasant View, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2J 3Y6, Canada","(43.787048, -79.3337137, 0.0)"
+Princess-Rosethorn,363,"2,138","99,055",-79.545608520513,43.6653099060715,,
+Regent Park,980,"16,880","34,597",-79.360313415513,43.6606903076715,"Regent Park, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 2B7, Canada","(43.6607056, -79.3604569, 0.0)"
+Rexdale-Kipling,694,"4,229","34,418",-79.567199707013,43.724330907163704,"DUCA, 2184, Kipling Avenue, Kipling Heights, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9W 4K9, Canada","(43.72211415, -79.5722924470802, 0.0)"
+Rockcliffe-Smythe,1227,"4,414","34,059",-79.488647460913,43.6752815246715,,
+Roncesvalles,1416,"9,851","50,580",-79.442687988213,43.6442718505715,"Roncesvalles, Tolima, Colombia","(4.10391495, -75.5899419424823, 0.0)"
+Rosedale-Moore Park,1628,"4,500","207,903",-79.379371643013,43.6819114685715,"Moore Park, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4T 1C7, Canada","(43.6903876, -79.3832965, 0.0)"
+Rouge,1940,"1,260","39,556",-79.17404937741291,43.8076591497177,"La Rouge, Val-au-Perche, Mortagne-au-Perche, Orne, Normandie, France métropolitaine, 61260, France","(48.2837103, 0.705539012148501, 0.0)"
+Runnymede-Bloor West Village,535,"6,333","71,888",-79.486686706513,43.662460327171495,"Runnymede, Runnymede Road, High Park North, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada","(43.6517026, -79.4759978, 0.0)"
+Rustic,712,"4,734","31,800",-79.49723052971301,43.712490081771605,"Le Rustic, Lorient, Morbihan, Bretagne, France métropolitaine, 56530, France","(47.779893, -3.4348784, 0.0)"
+Scarborough Village,1241,"5,395","32,913",-79.21691894531291,43.7385215759716,"Scarborough Village, Scarborough—Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1J 3M5, Canada","(43.7437422, -79.2116324, 0.0)"
+South Parkdale,1272,"9,583","35,207",-79.432540893513,43.6378784179714,"South Parkdale, Parkland County, Alberta, Canada","(53.4782822, -113.928310732473, 0.0)"
+South Riverdale,1949,"3,136","53,803",-79.3525936,43.6654704,"Riverdale, East York, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 1Y2, Canada","(43.6654704, -79.3525936, 0.0)"
+St.Andrew-Windfields,916,"2,430","100,516",-79.385051,43.754997,,
+Steeles,687,"5,436","31,786",-79.3145378,43.8161778,"Steeles, Scarborough—Agincourt, Scarborough, Toronto, Golden Horseshoe, Ontario, M1W 3M9, Canada","(43.8161778, -79.3145378, 0.0)"
+Stonegate-Queensway,942,"3,199","64,140",-79.481857,43.631260,"Queensway, Higham Ferrers, East Northamptonshire, Northamptonshire, East Midlands, England, NN10 8BU, United Kingdom","(52.304344, -0.5920399, 0.0)"
+Tam O'Shanter-Sullivan,1016,"5,073","34,200",-79.299789,43.780623,,
+Taylor-Massey,853,"15,528","30,430",-79.2661943,43.7240387,"Taylor-Massey Creek, Scarborough, Toronto, Ontario, M1K 3G2, Canada","(43.7240387, -79.2661943, 0.0)"
+The Beaches,853,"6,058","92,580",-79.296712,43.6710244,"The Beaches, Beaches—East York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4E 1E5, Canada","(43.6710244, -79.296712, 0.0)"
+Thistletown-Beaumond Heights,612,"3,130","32,815",-79.567271,43.736096,,
+Thorncliffe Park,746,"6,787","28,875",-79.3454074,43.704553,"Thorncliffe Park, Don Valley West, East York, Toronto, Golden Horseshoe, Ontario, M4H 1K3, Canada","(43.704553, -79.3454074, 0.0)"
+Trinity-Bellwoods,1217,"9,570","50,694",-79.4138809026667,43.64756465,"Trinity Bellwoods Park, 1053, West Queen West, Spadina—Fort York, Toronto, Golden Horseshoe, Ontario, Canada","(43.64756465, -79.4138809026667, 0.0)"
+University,1293,"5,395","50,757",-1.25166460220888,51.7520849,"University College, Logic Lane, Grandpont, Oxford, Oxfordshire, South East, England, OX1 4EX, United Kingdom","(51.7520849, -1.25166460220888, 0.0)"
+Victoria Village,594,"3,710","35,786",-79.3111892,43.732658,"Victoria Village, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M4A 2B1, Canada","(43.732658, -79.3111892, 0.0)"
+Waterfront Communities-The Island,5674,"8,943","70,600",-106.7169165,34.6459737,"Rio Communities, Valencia County, New Mexico, United States","(34.6459737, -106.7169165, 0.0)"
+West Hill,2857,"2,856","33,323",-79.1872905,43.7689144,"West Hill, Scarborough—Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1E 2N7, Canada","(43.7689144, -79.1872905, 0.0)"
+West Humber-Clairville,4338,"1,117","31,771",-0.161157735043996,53.89504245,"Clairville, Rolston Road, Hornsea, Rolston, East Riding of Yorkshire, Yorkshire and the Humber, England, HU18 1UH, United Kingdom","(53.89504245, -0.161157735043996, 0.0)"
+Westminster-Branson,837,"7,339","32,724",,,,
+Weston,1410,"7,197","32,997",-2.9778916,51.3471927,"Weston-super-Mare, North Somerset, South West England, England, BS23 1SL, United Kingdom","(51.3471927, -2.9778916, 0.0)"
+Wexford/Maryvale,2350,"2,724","35,047",,,,
+Willowdale East,1867,"10,087","45,326",-79.4109234,43.7615095,"Willowdale, North York, Toronto, Golden Horseshoe, Ontario, Canada","(43.7615095, -79.4109234, 0.0)"
+Willowdale West,548,"5,820","44,576",-79.4109234,43.7615095,"Willowdale, North York, Toronto, Golden Horseshoe, Ontario, Canada","(43.7615095, -79.4109234, 0.0)"
+Willowridge-Martingrove-Richview,1081,"4,007","44,177",,,,
+Woburn,3158,"4,345","30,878",-71.1522766,42.4792618,"Woburn, Middlesex County, Massachusetts, United States","(42.4792618, -71.1522766, 0.0)"
+Woodbine Corridor,648,"7,838","55,199",-79.3093948,43.6984937,"Taylor Creek Hydro Corridor (East Section) Trail, Woodbine Heights, Beaches—East York, East York, Toronto, Golden Horseshoe, Ontario, M4C 4K7, Canada","(43.6984937, -79.3093948, 0.0)"
+Woodbine-Lumsden,434,"6,722","47,710",-79.3157225,43.692829,"Lumsden Avenue, Woodbine Heights, Beaches—East York, East York, Toronto, Golden Horseshoe, Ontario, M4C 4J2, Canada","(43.692829, -79.3157225, 0.0)"
+Wychwood,623,"8,541","54,460",28.1275,-26.2005556,"Wychwood, City of Ekurhuleni Metropolitan Municipality, Gauteng, 2007, South Africa","(-26.2005556, 28.1275, 0.0)"
+Yonge-Eglinton,325,"7,162","89,330",-79.3983271,43.7067479,"Yonge & Eglinton, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4P 3A1, Canada","(43.7067479, -79.3983271, 0.0)"
+Yonge-St.Clair,234,"10,708","114,174",-79.3940036,43.6882104,"Yonge Street, St. Clair Avenue East, Deer Park, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4T 1L9, Canada","(43.6882104, -79.3940036, 0.0)"
+York University Heights,3141,"2,086","29,958",-73.9135154,40.8618406,"University Heights, West Fordham Road, University Heights, The Bronx, Bronx County, New York, 10468, United States of America","(40.8618406, -73.9135154, 0.0)"
+Yorkdale-Glen Park,1571,"2,451","38,527",-79.4533397364436,43.7104338,"Yorkdale Court, 2961, Dufferin Street, Glen Park, Eglinton—Lawrence, North York, Toronto, Golden Horseshoe, Ontario, M6B 3T2, Canada","(43.7104338, -79.4533397364436, 0.0)"
